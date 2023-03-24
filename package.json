@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tigmansh/CI-CD_GA/issues"
   },
-  "homepage": "https://github.com/tigmansh/CI-CD_GA#readme"
+  "homepage": "https://github.com/tigmansh/CI-CD_GA#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
 }
