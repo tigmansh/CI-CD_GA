@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tigmansh/CI-CD_GA#readme",
   "dependencies": {
     "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
   }
 }
